@@ -1,5 +1,4 @@
 #include<iostream>
-#include <bits/stdc++.h>
 #include<cstdlib>
 #include<time.h>
 #include<conio.h>
